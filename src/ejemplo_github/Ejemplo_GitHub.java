@@ -5,6 +5,8 @@
  */
 package ejemplo_github;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author RCastroMendez
@@ -15,7 +17,8 @@ public class Ejemplo_GitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Hola Mundo !!!!");
     }
     
 }
