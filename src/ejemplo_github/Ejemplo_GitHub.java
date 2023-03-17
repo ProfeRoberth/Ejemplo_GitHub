@@ -19,6 +19,8 @@ public class Ejemplo_GitHub {
     public static void main(String[] args) {
         
         JOptionPane.showMessageDialog(null, "Hola Mundo !!!!");
+        JOptionPane.showMessageDialog(null, "Hola Mundo2 !!!!");
+        JOPtionPane.showMessageDialog(null, "Hola Mundo3 !!!!");
     }
     
 }
